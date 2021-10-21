@@ -25,6 +25,7 @@ class colorRedRectangle extends Recangle{
     }
 }
 
+
 var obj = new colorRedRectangle(100,50,'yellow');
 var obj2 = new colorRedRectangle(200,100,'red')
 
